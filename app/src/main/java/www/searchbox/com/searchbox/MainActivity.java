@@ -58,7 +58,7 @@ public class MainActivity extends Activity {
                 //把EditText内容设置为空
                 mEditText.setText("");
                 //把ListView隐藏
-                mListView.setVisibility(View.GONE);
+//                mListView.setVisibility(View.GONE);
             }
         });
 
